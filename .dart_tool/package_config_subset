@@ -1,3 +1,7 @@
+project
+3.4
+file:///C:/Users/BatStateU/AndroidStudioProjects/Projectfrontend/
+file:///C:/Users/BatStateU/AndroidStudioProjects/Projectfrontend/lib/
 async
 2.18
 file:///C:/Users/BatStateU/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0/
@@ -134,10 +138,6 @@ web
 3.3
 file:///C:/Users/BatStateU/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.5.1/
 file:///C:/Users/BatStateU/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.5.1/lib/
-project
-3.4
-file:///C:/Users/BatStateU/StudioProjects/Projectfrontend/
-file:///C:/Users/BatStateU/StudioProjects/Projectfrontend/lib/
 sky_engine
 3.2
 file:///D:/flutter/bin/cache/pkg/sky_engine/

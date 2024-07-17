@@ -11,7 +11,7 @@ class Cart extends StatelessWidget {
         backgroundColor: Colors.green,
         foregroundColor:Colors.white70,
         title: Text(
-          'Cart',
+          'My Orders',
           style: TextStyle(
             color: Colors.black,
             fontWeight: FontWeight.w600,
